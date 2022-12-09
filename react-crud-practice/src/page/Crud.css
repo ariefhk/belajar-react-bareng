@@ -1,0 +1,8 @@
+.overflow-custom::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Handle */
+.overflow-custom::-webkit-scrollbar-thumb {
+  background: rgb(202, 197, 197);
+}
